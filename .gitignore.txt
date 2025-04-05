@@ -1,0 +1,7 @@
+# Ignore SSH and secret files
+*.pem
+*.key
+*.crt
+*.env
+.ssh/
+id_rsa
